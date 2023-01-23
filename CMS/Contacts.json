@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "d8a3fa21-e192-4561-8c42-b1b2a371f78e",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "BillingAddress": "123 Main St",
+    "DeliveryAddress": "123 Main St"
+  },
+  {
+    "Id": "62b65209-3e90-42a1-8462-af2676256648",
+    "FirstName": "Jude",
+    "LastName": "Conv",
+    "BillingAddress": "Manila",
+    "DeliveryAddress": "Manila"
+  },
+  {
+    "Id": "7965b098-7fc2-422c-9b15-2e3bcd126dd0",
+    "FirstName": "Vince",
+    "LastName": "Nadal",
+    "BillingAddress": "Quezon City",
+    "DeliveryAddress": "Quezon City"
+  },
+  {
+    "Id": "70e4ac9d-8e8a-4179-956d-7ad1b2588606",
+    "FirstName": "Neil",
+    "LastName": "Sotes",
+    "BillingAddress": "LLC",
+    "DeliveryAddress": "LLC"
+  },
+  {
+    "Id": "74ed67e3-d940-4fbf-87df-7e992bc69794",
+    "FirstName": "Lez",
+    "LastName": "Degamo",
+    "BillingAddress": "Talisay",
+    "DeliveryAddress": "Talisay"
+  }
+]
